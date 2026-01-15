@@ -1,7 +1,7 @@
 // Easy to update business information
 // Updated: 2026-01-15
 export const BUSINESS_INFO = {
-  name: "Woolly Wonders",
+  name: "Wool Wonder",
   tagline: "Handmade Wool Creations Made With Love",
   description: "Beautiful handcrafted wool flowers, bouquets, keychains, and kitchen items — each piece made with care and creativity.",
   whatsapp: "917984316831", // WhatsApp number with country code (91 for India)
@@ -79,6 +79,8 @@ export const TESTIMONIALS = [
 
 export const getWhatsAppLink = (productName?: string, productUrl?: string) => {
   const baseUrl = `https://wa.me/${BUSINESS_INFO.whatsapp}`;
+  console.log('WhatsApp Number:', BUSINESS_INFO.whatsapp);
+  console.log('WhatsApp URL:', baseUrl);
   if (productName && productUrl) {
     const message = encodeURIComponent(
       `Hi! I'm interested in this product: ${productName}. Link: ${productUrl}`
