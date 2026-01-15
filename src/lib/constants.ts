@@ -3,7 +3,7 @@ export const BUSINESS_INFO = {
   name: "Woolly Wonders",
   tagline: "Handmade Wool Creations Made With Love",
   description: "Beautiful handcrafted wool flowers, bouquets, keychains, and kitchen items — each piece made with care and creativity.",
-  whatsapp: "7984316831", // Replace with actual WhatsApp number
+  whatsapp: "917984316831", // WhatsApp number with country code (91 for India)
   instagram: "the.WoolWonder", // Replace with actual Instagram handle
   instagramUrl: "https://www.instagram.com/the.woolwonder?igsh=eWlrcjBzbHh0cmp2",
 };
