@@ -3,9 +3,9 @@ export const BUSINESS_INFO = {
   name: "Woolly Wonders",
   tagline: "Handmade Wool Creations Made With Love",
   description: "Beautiful handcrafted wool flowers, bouquets, keychains, and kitchen items — each piece made with care and creativity.",
-  whatsapp: "1234567890", // Replace with actual WhatsApp number
-  instagram: "woolly.wonders", // Replace with actual Instagram handle
-  instagramUrl: "https://instagram.com/woolly.wonders",
+  whatsapp: "7984316831", // Replace with actual WhatsApp number
+  instagram: "the.WoolWonder", // Replace with actual Instagram handle
+  instagramUrl: "https://www.instagram.com/the.woolwonder?igsh=eWlrcjBzbHh0cmp2",
 };
 
 export const PRODUCTS = [
