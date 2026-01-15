@@ -1,4 +1,5 @@
 // Easy to update business information
+// Updated: 2026-01-15
 export const BUSINESS_INFO = {
   name: "Woolly Wonders",
   tagline: "Handmade Wool Creations Made With Love",
